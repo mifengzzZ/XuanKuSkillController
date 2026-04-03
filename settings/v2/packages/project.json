@@ -1,4 +1,32 @@
 {
   "__version__": "1.0.6",
-  "custom_joint_texture_layouts": []
+  "custom_joint_texture_layouts": [],
+  "layer": [
+    {
+      "name": "Effect",
+      "value": 524288
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "width": 1334,
+      "height": 750
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Bullet"
+      },
+      {
+        "index": 2,
+        "name": "Enemey"
+      },
+      {
+        "index": 3,
+        "name": "PLayer"
+      }
+    ]
+  }
 }
