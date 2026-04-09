@@ -99,10 +99,10 @@ export class Main extends Component {
 
     public async loadRes(): Promise<void> {
         await ResMgr.ins.loadBundle(6, 0.02);
-        // await ResMgr.ins.loadRes(6, Assets.Skills, 0.5);
+        await ResMgr.ins.loadRes(6, Assets.Skills, 0.5);
         // await ResMgr.ins.loadRes(6, Assets.Clips, 0.3);
         // await ResMgr.ins.loadRes(6, Assets.Json, 0.05);
-        await ResMgr.ins.loadRes(6, Assets.Prefabs, 0.05);
+        // await ResMgr.ins.loadRes(6, Assets.Prefabs, 0.05);
     }
 
     public initUI(): void {

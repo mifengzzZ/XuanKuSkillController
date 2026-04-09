@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83fb7ac5-fd83-40a8-b655-4a5239318183",
+  "files": [],
+  "subMetas": {
+    "5f75d": {
+      "importer": "gltf-mesh",
+      "uuid": "83fb7ac5-fd83-40a8-b655-4a5239318183@5f75d",
+      "displayName": "",
+      "id": "5f75d",
+      "name": "Plane004.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 4
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93aa4": {
+      "importer": "gltf-scene",
+      "uuid": "83fb7ac5-fd83-40a8-b655-4a5239318183@93aa4",
+      "displayName": "",
+      "id": "93aa4",
+      "name": "plan_shizi.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "83fb7ac5-fd83-40a8-b655-4a5239318183@5f75d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "83fb7ac5-fd83-40a8-b655-4a5239318183@93aa4"
+      ]
+    }
+  }
+}

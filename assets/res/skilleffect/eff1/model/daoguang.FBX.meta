@@ -1,0 +1,115 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "939e2c22-95e6-4a97-9150-002e496c445a",
+  "files": [],
+  "subMetas": {
+    "e868e": {
+      "importer": "gltf-mesh",
+      "uuid": "939e2c22-95e6-4a97-9150-002e496c445a@e868e",
+      "displayName": "",
+      "id": "e868e",
+      "name": "daoguang_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fa43": {
+      "importer": "gltf-mesh",
+      "uuid": "939e2c22-95e6-4a97-9150-002e496c445a@0fa43",
+      "displayName": "",
+      "id": "0fa43",
+      "name": "daoguang_02.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db4d2": {
+      "importer": "gltf-material",
+      "uuid": "939e2c22-95e6-4a97-9150-002e496c445a@db4d2",
+      "displayName": "",
+      "id": "db4d2",
+      "name": "02 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89d48": {
+      "importer": "gltf-scene",
+      "uuid": "939e2c22-95e6-4a97-9150-002e496c445a@89d48",
+      "displayName": "",
+      "id": "89d48",
+      "name": "daoguang.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "939e2c22-95e6-4a97-9150-002e496c445a@e868e",
+        "939e2c22-95e6-4a97-9150-002e496c445a@0fa43"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "939e2c22-95e6-4a97-9150-002e496c445a@db4d2"
+      ],
+      "scenes": [
+        "939e2c22-95e6-4a97-9150-002e496c445a@89d48"
+      ]
+    }
+  }
+}

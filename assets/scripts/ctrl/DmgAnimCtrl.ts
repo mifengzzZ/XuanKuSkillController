@@ -11,7 +11,7 @@ export class DmgAnimCtrl extends Component {
     @property(Label)
     text: Label = null;
 
-    public init(dmg: number, font: Font): void {
+    public init(dmg, font: Font): void {
         this.text.font = font;
         this.text.fontSize = 56 + 16 * Math.random()
         this.text.string = "" + dmg
