@@ -10,10 +10,7 @@
   },
   "_techIdx": 0,
   "_defines": [
-    {
-      "SIZE_OVER_TIME_MODULE_ENABLE": true,
-      "VELOCITY_OVER_TIME_MODULE_ENABLE": true
-    },
+    {},
     {}
   ],
   "_states": [
@@ -39,14 +36,14 @@
   "_props": [
     {
       "mainTexture": {
-        "__uuid__": "400f5e68-acdb-4297-9b3d-d4b573644edc@6c48a",
+        "__uuid__": "7e9ddebb-4999-4fb5-a56b-585645a1859f@6c48a",
         "__expectedType__": "cc.Texture2D"
       },
       "tintColor": {
         "__type__": "cc.Color",
-        "r": 213,
-        "g": 213,
-        "b": 213,
+        "r": 199,
+        "g": 192,
+        "b": 192,
         "a": 255
       }
     },
