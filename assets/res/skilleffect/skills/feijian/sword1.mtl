@@ -11,9 +11,8 @@
   "_techIdx": 0,
   "_defines": [
     {
-      "COLOR_OVER_TIME_MODULE_ENABLE": true,
-      "ROTATION_OVER_TIME_MODULE_ENABLE": true,
-      "SIZE_OVER_TIME_MODULE_ENABLE": true
+      "SIZE_OVER_TIME_MODULE_ENABLE": true,
+      "VELOCITY_OVER_TIME_MODULE_ENABLE": true
     },
     {}
   ],
@@ -40,15 +39,8 @@
   "_props": [
     {
       "mainTexture": {
-        "__uuid__": "7e9ddebb-4999-4fb5-a56b-585645a1859f@6c48a",
+        "__uuid__": "499cb3f2-f40b-48b7-9772-f576525d4d4d@6c48a",
         "__expectedType__": "cc.Texture2D"
-      },
-      "tintColor": {
-        "__type__": "cc.Color",
-        "r": 199,
-        "g": 192,
-        "b": 192,
-        "a": 255
       }
     },
     {}

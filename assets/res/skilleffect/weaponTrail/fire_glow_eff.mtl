@@ -5,16 +5,12 @@
   "__editorExtras__": {},
   "_native": "",
   "_effectAsset": {
-    "__uuid__": "971bdb23-3ff6-43eb-b422-1c30165a3663",
+    "__uuid__": "d1346436-ac96-4271-b863-1f4fdead95b0",
     "__expectedType__": "cc.EffectAsset"
   },
   "_techIdx": 0,
   "_defines": [
-    {
-      "COLOR_OVER_TIME_MODULE_ENABLE": true,
-      "ROTATION_OVER_TIME_MODULE_ENABLE": true,
-      "SIZE_OVER_TIME_MODULE_ENABLE": true
-    },
+    {},
     {}
   ],
   "_states": [
@@ -40,15 +36,8 @@
   "_props": [
     {
       "mainTexture": {
-        "__uuid__": "7e9ddebb-4999-4fb5-a56b-585645a1859f@6c48a",
+        "__uuid__": "8a06dee1-23aa-4ac0-bfd1-1e6b52b9cee4@6c48a",
         "__expectedType__": "cc.Texture2D"
-      },
-      "tintColor": {
-        "__type__": "cc.Color",
-        "r": 199,
-        "g": 192,
-        "b": 192,
-        "a": 255
       }
     },
     {}
