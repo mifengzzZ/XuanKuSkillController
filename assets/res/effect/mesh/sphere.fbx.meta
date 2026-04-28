@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "641692e4-3694-44dc-8e00-3d3f74853a4b",
+  "files": [],
+  "subMetas": {
+    "95c1f": {
+      "importer": "gltf-mesh",
+      "uuid": "641692e4-3694-44dc-8e00-3d3f74853a4b@95c1f",
+      "displayName": "",
+      "id": "95c1f",
+      "name": "sphere.002.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 418
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "641692e4-3694-44dc-8e00-3d3f74853a4b@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a715": {
+      "importer": "gltf-scene",
+      "uuid": "641692e4-3694-44dc-8e00-3d3f74853a4b@7a715",
+      "displayName": "",
+      "id": "7a715",
+      "name": "sphere.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "641692e4-3694-44dc-8e00-3d3f74853a4b@95c1f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "641692e4-3694-44dc-8e00-3d3f74853a4b@8d883"
+      ],
+      "scenes": [
+        "641692e4-3694-44dc-8e00-3d3f74853a4b@7a715"
+      ]
+    }
+  }
+}
